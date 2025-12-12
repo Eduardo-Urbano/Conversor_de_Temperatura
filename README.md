@@ -37,9 +37,9 @@
         <th>Quente ☀️</th>
     </tr>
     <tr>
-        <td><img src="./public/view/assets/img/frio.png" alt="Frio" width="300"></td>
-        <td><img src="./public/view/assets/img/moderado.png" alt="Moderado" width="300"></td>
-        <td><img src="./public/view/assets/img/quente.png" alt="Quente" width="300"></td>
+        <td><img src="./public/view/assets/img/frio.png" alt="Frio" width="300" height="350"></td>
+        <td><img src="./public/view/assets/img/moderado.png" alt="Moderado" width="300" height="350"></td>
+        <td><img src="./public/view/assets/img/quente.png" alt="Quente" width="300" height="350"></td>
     </tr>
 </table>
 
