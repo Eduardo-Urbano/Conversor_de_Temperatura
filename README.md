@@ -37,9 +37,9 @@
         <th>Quente ☀️</th>
     </tr>
     <tr>
-        <td><img src="./public/view/assets/img/frio.png" alt="Frio" width="300"></td>
-        <td><img src="./public/view/assets/img/moderado.png" alt="Moderado" width="300"></td>
-        <td><img src="./public/view/assets/img/quente.png" alt="Quente" width="300"></td>
+        <td><img src="./public/view/assets/img/frio.png" alt="Frio" width="300" height="350"></td>
+        <td><img src="./public/view/assets/img/moderado.png" alt="Moderado" width="300" height="350"></td>
+        <td><img src="./public/view/assets/img/quente.png" alt="Quente" width="300" height="350"></td>
     </tr>
 </table>
 
@@ -50,7 +50,7 @@
 <h2>Como usar</h2>
 <ol>
     <li>Clone este repositório:
-        <!--<pre><code>git clone &lt;link-do-repo&gt;</code></pre>-->
+       <pre><code>git clone https://github.com/Eduardo-Urbano/Conversor_de_Temperatura.git</code></pre>
     </li>
     <li>Instale as dependências (se necessário para Tailwind / TypeScript) ou abra diretamente o HTML no navegador.</li>
     <li>Abra <code>index.html</code> no navegador.</li>
