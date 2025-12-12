@@ -62,29 +62,24 @@
 
 <h2>Estrutura do projeto</h2>
     <pre><code>/projeto-conversor
-    ├─ public/
-    │  ├─ styles/
-    │  │  ├─ output.css
-    │  │  └─ animacao.css
-    │  │
-    │  └─ view 
-    │     ├─ assets/
-    │     │  └─ img/
-    │     │     ├─ frio.png
-    │     │     ├─ moderado.png
-    │     │     └─ quente.png
-    │     │
-    │     └─index.html   
-    │
-    └─ src/
-       ├─ scripts/
-       │  └─ index.ts
-       │
-       ├─ build/
-       │  └─ index.js
-       │
-       └─ styles/
-          └─ input.css
+        ├─ index.html
+        ├─ public/
+        │  ├─ styles/
+        │  │  ├─ output.css
+        │  │  └─ animacao.css
+        │  └─ assets/
+        │     └─ img/
+        │        ├─ frio.png
+        │        ├─ moderado.png
+        │        └─ quente.png
+        ├─ src/
+        │  ├─ scripts/
+        │  │  └─ index.ts
+        │  ├─ build/
+        │  │  └─ index.js
+        │  └─ styles/
+        │     └─ input.css
+        └─ README.md
     </code></pre>
 
 <hr>
