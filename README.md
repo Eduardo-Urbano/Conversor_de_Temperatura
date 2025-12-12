@@ -50,7 +50,7 @@
 <h2>Como usar</h2>
 <ol>
     <li>Clone este repositório:
-        <!--<pre><code>git clone &lt;link-do-repo&gt;</code></pre>-->
+       <pre><code>git clone &lt;https://github.com/Eduardo-Urbano/Conversor_de_Temperatura&gt;</code></pre>
     </li>
     <li>Instale as dependências (se necessário para Tailwind / TypeScript) ou abra diretamente o HTML no navegador.</li>
     <li>Abra <code>index.html</code> no navegador.</li>
